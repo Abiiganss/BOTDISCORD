@@ -1,0 +1,89 @@
+{
+    "real_estate": {
+        "market": {},
+        "auctions": {},
+        "rentals": {},
+        "agents": {},
+        "market_trends": {
+            "last_update": 1749371162,
+            "price_multiplier": 1.354802934810342
+        },
+        "inventory": {},
+        "pekerjaan": null,
+        "status_kerja": "Menganggur",
+        "aplikasi_kerja": {},
+        "last_work": null,
+        "streak": 0,
+        "utang_ke_pemain": {},
+        "rating_kredibilitas": {
+            "total_rating": 0,
+            "jumlah_rating": 0,
+            "rating_detail": [],
+            "transaksi_selesai": 0
+        },
+        "riwayat_pinjaman": [],
+        "lapar": 90,
+        "haus": 84,
+        "kesehatan": 100,
+        "last_life_update": 1749368019,
+        "last_notifications": {
+            "lapar": 0,
+            "haus": 0,
+            "kesehatan": 0
+        }
+    },
+    "871150828705173514": {
+        "uang": 0,
+        "xp": 0,
+        "pekerjaan": null,
+        "gaji": 0,
+        "hutang": 0,
+        "inventory": {},
+        "status_kerja": "Menganggur",
+        "aplikasi_kerja": {},
+        "last_work": null,
+        "streak": 0,
+        "utang_ke_pemain": {},
+        "rating_kredibilitas": {
+            "total_rating": 0,
+            "jumlah_rating": 0,
+            "rating_detail": [],
+            "transaksi_selesai": 0
+        },
+        "riwayat_pinjaman": [],
+        "lapar": 90,
+        "haus": 84,
+        "kesehatan": 100,
+        "last_life_update": 1749369089,
+        "daily_streak": 0,
+        "last_daily": 0,
+        "last_notifications": {
+            "lapar": 0,
+            "haus": 0,
+            "kesehatan": 0
+        },
+        "location": {
+            "current_city": "jakarta",
+            "current_building": null,
+            "travel_history": []
+        },
+        "education": {
+            "enrolled": false,
+            "university": null,
+            "major": null,
+            "semester": 0,
+            "gpa": 0.0,
+            "total_credits": 0,
+            "tuition_paid": 0,
+            "degrees": [],
+            "scholarships": [],
+            "last_study": 0
+        },
+        "sleep_status": {
+            "is_sleeping": false,
+            "sleep_start": 0,
+            "sleep_duration": 0,
+            "total_sleep_time": 0
+        }
+    }
+}
